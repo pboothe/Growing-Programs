@@ -1,0 +1,6 @@
+Most intro books totally suck.  We are trying to make one that doesn't suck,
+based on the idea that to solve a programming problem, the right way of
+creating a solution is to create a solution to a simpler problem and grow that
+code by adding features and altering it, while continually making sure it still
+compiles and runs, until the code is capabale of solving the original problem
+set out for it.
